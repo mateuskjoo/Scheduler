@@ -32,6 +32,9 @@ THEN the saved events persist
 ![image](https://user-images.githubusercontent.com/124851248/222870910-e9140e2b-7682-4f54-8685-d4ab582b8f7a.png)
 
 
+# Main Link 
+https://mateuskjoo.github.io/Scheduler/
+
 ## Resources 
 https://day.js.org/docs/en/display/format
 https://api.jquery.com/toggleclass/
