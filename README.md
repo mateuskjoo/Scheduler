@@ -27,7 +27,10 @@ THEN the saved events persist
 
 
 ## Functionality images
-image1.png
+
+![image](https://user-images.githubusercontent.com/124851248/222870891-7f97027d-421f-4eec-897e-307010009686.png)
+![image](https://user-images.githubusercontent.com/124851248/222870910-e9140e2b-7682-4f54-8685-d4ab582b8f7a.png)
+
 
 ## Resources 
 https://day.js.org/docs/en/display/format
